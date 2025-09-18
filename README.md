@@ -1,6 +1,6 @@
 # heart-attack-policyholder-risk
 Logistic regression analysis of heart attack policyholder risk with initiative proposal.
-# Heart Attack Policyholder Risk Analysis
+# Heart Attack Policyholder Risk Analysis Proposal
 
 **Author:** Rachel Goldsbury  
 **Course:** SNHU DAT 510  
