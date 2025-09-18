@@ -1,3 +1,7 @@
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Stage-Portfolio--Project-blue)
+
 # heart-attack-policyholder-risk
 Logistic regression analysis of heart attack policyholder risk with initiative proposal.
 # Heart Attack Policyholder Risk Analysis Proposal
