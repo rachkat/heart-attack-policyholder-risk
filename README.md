@@ -40,7 +40,8 @@ The analysis follows the **Data Analytics Life Cycle**, ensuring structured, hig
 
 ## 📑 Full Paper
 You can read the complete project write-up here:  
-➡️ [Heart Attack Policyholder Risk Proposal (PDF)](./Heart_Attack_Risk_Proposal.pdf)  
+➡️ [Heart Attack Policyholder Risk Proposal (PDF)](./heart_attack_risk_proposal.pdf)
+
 
 ---
 
