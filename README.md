@@ -14,9 +14,9 @@ Logistic regression analysis of heart attack policyholder risk with initiative p
 ---
 
 ## Project Overview
-This project analyzes health insurance policyholder data to predict the risk of **second heart attacks**. Using **logistic regression** in R, the goal is to identify high-risk patients and propose targeted interventions (such as stress or weight management programs) that extend patient lives while reducing costs for the insurance company.  
+This project applies **logistic regression** in R to analyze health insurance policyholder data and predict the risk of **second heart attacks**. Using demographic and clinical features such as age, weight, cholesterol, stress, and anxiety, the model identifies high-risk patients and supports insurers in targeting interventions (e.g., stress or weight management programs).  
 
-The analysis follows the **Data Analytics Life Cycle**, ensuring structured, high-quality results that align with organizational goals.  
+The goal is to extend patient lives, improve outcomes, and reduce costs for the insurance company. The work follows the **Data Analytics Life Cycle**, ensuring structured, high-quality results that align with organizational goals and enable more effective allocation of healthcare resources.
 
 ---
 
