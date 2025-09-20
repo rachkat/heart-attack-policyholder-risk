@@ -124,7 +124,8 @@ pred_lab  <- ifelse(pred_prob >= 0.5, "Yes", "No")
 confusionMatrix(factor(pred_lab, levels = c("No","Yes")),
                 factor(test$second_event, levels = c("No","Yes")))
 roc_obj <- roc(response = test$second_event, predictor = pred_prob)
-auc(roc_obj)'''
+auc(roc_obj)
+```
 
 ---
 
