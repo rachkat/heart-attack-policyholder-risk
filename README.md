@@ -25,7 +25,7 @@ The goal is to extend patient lives, improve outcomes, and reduce costs for the 
 - Provide **community education resources** to reduce risks.  
 - Improve patient outcomes while **lowering costs and premiums**.  
 
-## 📦 Data
+## Data
 - **Source:** Medical claims database.  
 - **Features (available):** age, marital status, gender, weight category, cholesterol, stress management, trait anxiety.  
 - **Gaps (to consider adding):** lifestyle (diet, exercise), family history, blood pressure.  
@@ -33,7 +33,7 @@ The goal is to extend patient lives, improve outcomes, and reduce costs for the 
 
 ---
 
-## 🔬 Methods
+## Methods
 - **Model:** Logistic Regression (classification of second-event risk).  
 - **Environment:** **R / RStudio**.  
 - **Key packages:** `caret` (training/tuning, resampling), optional `pROC` (AUC), `ggplot2` (viz), optional `shiny` (stakeholder demo).  
@@ -68,14 +68,14 @@ Planned visuals include:
 ---
 ---
 
-## 📏 Evaluation
+## Evaluation
 - **Primary metrics:** Precision · Recall · F1-score · ROC-AUC.  
 - **Monitoring plan:** Track drift in inputs/outcomes; periodic re-training; human-in-the-loop review of flagged cases.  
 - **Business lens:** Sensitivity analysis on intervention capacity (who we can enroll vs. who we must defer).
 
 ---
 
-## 🚀 Deployment Concept
+## Deployment Concept
 1) Score eligible policyholders monthly/quarterly.  
 2) **Route high-risk** members to care-management programs (stress/weight).  
 3) **Close the loop:** record enrollment/engagement/outcomes to retrain and improve the model.  
@@ -83,7 +83,7 @@ Planned visuals include:
 
 ---
 
-## 🔄 Data Analytics Life Cycle (Milestones 1–4)
+## Data Analytics Life Cycle (Milestones 1–4)
 - **Milestone 1 — Problem & Data**  
   Define second-event risk; confirm available claims features; acknowledge lifestyle gaps.
 - **Milestone 2 — Goals & DALC**  
@@ -95,7 +95,7 @@ Planned visuals include:
 
 ---
 
-## 🧪 Reproducibility (R sketch)
+## Reproducibility (R sketch)
 > *Illustrative; adapt column names to your dataset.*
 
 ```r
