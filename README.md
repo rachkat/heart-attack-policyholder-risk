@@ -46,7 +46,6 @@ The goal is to extend patient lives, improve outcomes, and reduce costs for the 
 You can read the complete project write-up here:  
 ➡️ [Heart Attack Policyholder Risk Proposal (PDF)](./heart_attack_risk_proposal.pdf)
 
-
 ---
 
 ## Visualization Plan
@@ -61,6 +60,3 @@ Planned visuals include:
 North, M. (2012). *Data Mining for the Masses*.  
 
 ---
-
-## About This Portfolio
-This repository is part of my **data analytics portfolio**. It demonstrates my ability to structure real-world health risk problems, apply predictive modeling, and communicate results to stakeholders effectively.  
